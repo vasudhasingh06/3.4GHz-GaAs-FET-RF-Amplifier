@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# ADS simulation data
+*.dds
+*.cfg
+*.opt
+*.wrkstate
+*.def
+*.lay.prf
+*_lay.prf
+
+# Backup files
+*~
+*.bak
+
+# Temporary files
+search_history.log
+
+# Windows
+Thumbs.db
